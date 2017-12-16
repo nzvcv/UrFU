@@ -1,0 +1,7 @@
+.vs/
+.git/
+App.config
+bin/
+obj/
+Properties/
+.DS_Store
